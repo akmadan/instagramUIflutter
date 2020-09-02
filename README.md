@@ -1,4 +1,4 @@
-# instauiflutter
+# Instagram UI in Flutter
 
 A new Flutter project.
 
